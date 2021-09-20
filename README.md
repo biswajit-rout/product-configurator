@@ -1,3 +1,7 @@
+#Product Designer Tool:
+![image](https://user-images.githubusercontent.com/24861502/133998416-61bea31a-2a5a-4db5-80e1-f0d94cdbae9a.png)
+
+DEMO URL (https://biswajit-rout.github.io/product-configurator/)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
